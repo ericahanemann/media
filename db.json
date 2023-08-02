@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jean Rippin",
+      "id": 2
+    },
+    {
+      "name": "Fred Lemke",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Bronze Gloves",
+      "id": 16
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Plastic Soap",
+      "id": 18
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Fresh Bacon",
+      "id": 20
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=12728",
+      "id": 3
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=23533",
+      "id": 4
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=28057",
+      "id": 7
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=42494",
+      "id": 8
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=15433",
+      "id": 9
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=93349",
+      "id": 13
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=61092",
+      "id": 14
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=58278",
+      "id": 15
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=41184",
+      "id": 17
+    },
+    {
+      "albumId": 16,
+      "url": "https://loremflickr.com/150/250/abstract?lock=58160",
+      "id": 19
+    }
+  ]
+}
