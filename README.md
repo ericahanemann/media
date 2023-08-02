@@ -1,4 +1,4 @@
-#Media Project
+# Media Project
 
 Project developed during the course "Moder React with Redux" to understand making network requests and fetching data inside of a redux world
 
